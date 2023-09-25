@@ -1,0 +1,4 @@
+Stub out landing page
+Write API interface to nasdaq or some other stock tracking service
+Define and implement model for local storage of tickers and historical prices
+s
